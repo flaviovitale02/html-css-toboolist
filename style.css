@@ -58,6 +58,7 @@ ul{
 .check{
     font-size: 10px;
     color:green;
+    border: solid 2px;
     border-color:green;
     border-style: solid;
     border-radius: 50%;
@@ -74,6 +75,7 @@ ul{
 .cross{
     font-size: 10px;
     color:red;
+    border: solid 2px;
     border-color:red;
     border-style: solid;
     border-radius: 50%;
