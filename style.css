@@ -9,3 +9,29 @@ header{
     margin: 20px;
 
 }
+
+
+button{
+    border-radius: 20%;
+    border-color: rgb(0, 128, 255);
+}
+
+#first-button{
+    color:antiquewhite;
+    background-color:  rgb(0, 128, 255);
+    margin-top: 4%;
+    display: inline-block;
+    height: 30px;
+}
+
+#second-button{
+    opacity: 70%;
+    margin-top: 4%;
+    display: inline-block;
+    height: 30px;
+}
+
+
+main{
+    padding-left: 20%;
+}
